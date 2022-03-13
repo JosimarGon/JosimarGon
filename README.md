@@ -2,8 +2,8 @@
 ## Hi there, I'm Josimar Gonçalves!
 <div align="center">
   <a href="https://github.com/JosimarGon">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JosimarGon&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosimarGon&layout=compact&langs_count=7&theme=apprentice"/>    
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=JosimarGon&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosimarGon&layout=compact&langs_count=7&theme=apprentice"/>    
 </div>
 <details>
   <summary><b><color=black>✨About Me</color></b></summary><br/>
