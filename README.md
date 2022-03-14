@@ -2,15 +2,12 @@
 ## Hi there, I'm Josimar Gonçalves!
 <div align="center">
   <a href="https://github.com/JosimarGon">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=JosimarGon&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosimarGon&layout=compact&langs_count=7&theme=apprentice"/>    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosimarGon&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosimarGon&layout=compact&langs_count=7&theme=apprentice"/>    
 </div>
-<details>
-  <summary><b><color=black>✨About Me</color></b></summary><br/>
-</details>
-   
-<details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+  
+</div>
+<div>
   <div style="display: inline_block"><br>
   <img align="center" alt="JG-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="JG-Jupyter" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
@@ -19,10 +16,8 @@
   <img align="center" alt="JG-Matplot" height="30" width="60" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
   <img align="center" alt="JG-Seaborn" height="30" width="60" src="https://matplotlib.org/stable/_static/logo2.svg" />
   <img align="center" alt="JG-PostgreSQL" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  
+  <img align="center" alt="JG-PostgreSQL" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
-</details>
-
  
 <div> 
  <div style="display: inline_block"><br>
