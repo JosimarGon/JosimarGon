@@ -7,8 +7,7 @@
 </div>
   
 </div>
-<div>
-  <div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="JG-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="JG-Jupyter" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img  align="center" alt="JG-Numpy" height="30" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
@@ -19,8 +18,7 @@
   <img align="center" alt="JG-PostgreSQL" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
  
-<div> 
- <div style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
   <a href = "mailto:pegojg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/JosimarGon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = ""><img src= "https://img.shields.io/badge/-Kaggle-%23333?style=for-the-badge&logo=K&logoColor=white" target="_blank"></a>
